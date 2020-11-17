@@ -4,7 +4,6 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
-* [Usage](#usage)
 * [Architecture](#Architecture)
 * [Acknowledgements](#acknowledgements)
 
