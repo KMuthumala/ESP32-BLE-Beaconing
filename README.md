@@ -52,14 +52,14 @@ such as DOIT DEVKIT V1, ESP32 DeV Kit, ESP-32S NodeMCU, ESP32 Thing, WEMOS LOLIN
 which has following,
 
 specifications:
-● · Number of cores: 2 (dual core)
-● · Wi-Fi: 2.4 GHz up to 150 Mbits/s
-● · Bluetooth: BLE (Bluetooth Low Energy) and legacy Bluetooth
-● · Architecture: 32 bits
-● · Clock frequency: Up to 240 MHz
-● · RAM: 512 KB
-● · Pins: 30 (version with 30 GPIOs)
-● · Peripherals: Capacitive touch, ADC (analog to digital converter), DAC (digital
+* ● · Number of cores: 2 (dual core)
+* ● · Wi-Fi: 2.4 GHz up to 150 Mbits/s
+* ● · Bluetooth: BLE (Bluetooth Low Energy) and legacy Bluetooth
+* ● · Architecture: 32 bits
+* ● · Clock frequency: Up to 240 MHz
+* ● · RAM: 512 KB
+* ● · Pins: 30 (version with 30 GPIOs)
+* ● · Peripherals: Capacitive touch, ADC (analog to digital converter), DAC (digital
 to analog converter), I2C (Inter-Integrated Circuit), UART (universal asynchronous
 receiver/transmitter), CAN 2.0 (Controller Area Network), SPI (Serial Peripheral
 Interface), I2S (Integrated Inter-IC Sound), RMII (Reduced Media-Independent
