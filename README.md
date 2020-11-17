@@ -65,8 +65,8 @@ receiver/transmitter), CAN 2.0 (Controller Area Network), SPI (Serial Peripheral
 Interface), I2S (Integrated Inter-IC Sound), RMII (Reduced Media-Independent
 Interface), PWM (pulse width modulation), and more.
 
-
-
+## Architecture
+![architecture](Architecture.png)
 
 
 
